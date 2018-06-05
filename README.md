@@ -1,2 +1,3 @@
 # GitHub-Test
-This repo will show us how to use GitHub
+
+This repo will also show us how branching and merging will work.
